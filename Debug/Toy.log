@@ -1,0 +1,10 @@
+﻿  Toy.cpp
+C:\Users\KimHanbi\source\repos\Toy\Toy\Toy.cpp(116,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\KimHanbi\source\repos\Toy\Toy\Toy.cpp(189,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\KimHanbi\source\repos\Toy\Toy\Toy.cpp(221,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\KimHanbi\source\repos\Toy\Toy\Toy.cpp(393,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\KimHanbi\source\repos\Toy\Toy\Toy.cpp(409,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\KimHanbi\source\repos\Toy\Toy\Toy.cpp(327): warning C4715: 'value': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\KimHanbi\source\repos\Toy\Toy\Toy.cpp(381): warning C4715: 'use_array_error_check': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\KimHanbi\source\repos\Toy\Toy\Toy.cpp(419): warning C4715: 'use_vector_error_check': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Toy.vcxproj -> C:\Users\KimHanbi\source\repos\Toy\Debug\Toy.exe
